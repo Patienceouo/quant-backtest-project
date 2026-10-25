@@ -30,4 +30,4 @@ SSE Composite Index (1990–2026), retrieved via akshare.
 
 ## Next Step
 
-Python fundamentals (hands-on) → Git/GitHub & command line → backtesting individual stocks (limit-up/down, suspension, delisting, survivorship bias).
+Preventing overfitting with a three-way data split (tuning / validation / test), and porting the falsification method to individual stocks (limit-up/down, suspension, delisting, survivorship bias).
